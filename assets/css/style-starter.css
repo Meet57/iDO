@@ -10,6 +10,7 @@ Author URL: http://w3layouts.com
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ 
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -22,7 +23,7 @@ Author URL: http://w3layouts.com
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
-  --gray: #6c757d;
+  --gray: #606569;
   --gray-dark: #343a40;
   --primary: #ff4c4c;
   --secondary: #e71d36;
